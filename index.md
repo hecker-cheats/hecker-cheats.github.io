@@ -6,6 +6,6 @@
 
 [2. OwlHub](https://hecker-cheats.github.io/owlhub.lua)
 
-[3. ZyrexHub]()
+[3. ZyrexHub](https://hecker-cheats.github.io/zyrexhub.lua)
 
 [More Comming Soon...]()
