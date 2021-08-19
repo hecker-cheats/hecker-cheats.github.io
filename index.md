@@ -2,7 +2,7 @@
 
 ### Roblox Scripts:
 
-[1. Heckers Hub (not works)](https://hecker-cheats.github.io/heckers_hub/loads.lua)
+[1. Heckers Hub](https://hecker-cheats.github.io/heckers_hub/loads.lua)
 
 [2. OwlHub](https://hecker-cheats.github.io/owlhub.lua)
 
