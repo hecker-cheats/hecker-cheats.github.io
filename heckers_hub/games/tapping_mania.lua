@@ -3,6 +3,7 @@ local library = loadstring(game:HttpGet(('https://hecker-cheats.github.io/hecker
 local a = false
 local h = false
 local w = library:CreateWindow("Hecker's Cheats")
+local iuyfasd = w:CreateFolder("hecker-cheats.github.io")
 local b = w:CreateFolder("Misc")
 local x = w:CreateFolder("UI Settings")
 b:Toggle("Auto Tap",function(bool)
