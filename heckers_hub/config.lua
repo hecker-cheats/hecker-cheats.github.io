@@ -18,6 +18,16 @@ elseif game.PlaceId==155615604 then
 	  Text = 'For Executor: '.._G.exploit;
   })
   loadstring(game:HttpGet('https://hecker-cheats.github.io/heckers_hub/games/prison_life.lua', true))()
+elseif game.PlaceId==3823781113 then
+  print('saber simulator detected.')
+  if identifyexecutor then
+    _G.exploit = identifyexecutor();
+  end;
+  game:GetService("StarterGui"):SetCore("SendNotification", {
+	  Title = "Hecker's Hub Loaded!";
+	  Text = 'For Executor: '.._G.exploit;
+  })
+  loadstring(game:HttpGet('https://hecker-cheats.github.io/heckers_hub/games/saber_sim.lua', true))()
 else
   game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "Hecker's Hub No Loaded";
